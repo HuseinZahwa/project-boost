@@ -1,0 +1,11 @@
+res://Audio/booster_particles.tscn::9b10cb7d292f945552c9137387c2cda4::1726694491::res://.godot/exported/133200997/export-d73b7d1a9bde1a8271c6f48b25d29b09-booster_particles.scn
+res://Levels/level_1.tscn::ee1e4a1a33cba049293f59b0918d9959::1727284423::res://.godot/exported/133200997/export-fa9c54ec1f9d41bf90d27046a9bac1a2-level_1.scn
+res://Levels/level_2.tscn::b18b810ae721ddd89f62a5ff26e15cfe::1727284423::res://.godot/exported/133200997/export-8009157c263a4ecd21ebf2223f1d9cc3-level_2.scn
+res://Levels/level_3.tscn::7a85933b6297f7aeefd9e36e435509a2::1727284423::res://.godot/exported/133200997/export-efa36142898fe8a41a84f59456e1b280-level_3.scn
+res://Levels/level_4.tscn::3b7a93b08ff862c65b5dbbda781cbd75::1727284423::res://.godot/exported/133200997/export-4e3b299600bd6c715040ff702b0cd8dc-level_4.scn
+res://Particles/booster_particles.tscn::a72fae4856d0bfcbe9c59e8297a3e32b::1726694985::res://.godot/exported/133200997/export-551c4813e6d32a2dcd612e26cda5d01e-booster_particles.scn
+res://Particles/explosion_particles.tscn::8457e5caef095dfbbde4781f11c8cbbb::1726695127::res://.godot/exported/133200997/export-12628f9423430829cc6a037bdfacb957-explosion_particles.scn
+res://Particles/success_particles.tscn::a66bb5e4914db34e14d062e6206f4bbf::1726695127::res://.godot/exported/133200997/export-182e415ac7fa2c25e9067788e868d73d-success_particles.scn
+res://background.tscn::02f18cd67cac5a3ada347f886d352876::1727284423::res://.godot/exported/133200997/export-28e4a4dab6f8f98a6419d5be2f1d6925-background.scn
+res://moving_hazard.tscn::bcbab3655b24684dfc7d99569d8b0182::1726694371::res://.godot/exported/133200997/export-089f71c7f732ad8370ebc1076ef142bd-moving_hazard.scn
+res://player.tscn::0602521e7ca138933f2f048816aebf5e::1727284423::res://.godot/exported/133200997/export-36a25e342948d0ceacc500772b5412b3-player.scn

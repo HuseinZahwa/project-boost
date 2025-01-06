@@ -1,0 +1,16 @@
+ECHO is on.
+# Godot-specific
+.import/
+.export/
+.mono/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Godot binary exports
+*.exe
+*.apk
+*.x86_64
+*.pck
+*.zip

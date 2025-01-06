@@ -1,0 +1,24 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1727283842
+background.tscn::PackedScene::3577793876386490089::1727204947::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1727204993::0::1::::<><>::
+icon.svg::CompressedTexture2D::3982352432101137137::1725995837::1725995842::1::::<><>::
+moving_hazard.gd::GDScript::-1::1726081590::0::1::::<>AnimatableBody3D<>::
+moving_hazard.tscn::PackedScene::392801438504330538::1726694371::0::1::::<><>::res://moving_hazard.gd
+player.gd::GDScript::-1::1726697582::0::1::::<>RigidBody3D<>::
+player.tscn::PackedScene::6666882394069986954::1727204896::0::1::::<><>::res://player.gd<>uid://ecss2e6v4lir::::res://Particles/booster_particles.tscn<>uid://2autiqotm5ow::::res://Audio/SFX - Death Explosion.ogg<>uid://dqss671osau58::::res://Audio/SFX - Success.ogg<>uid://chtbhuwu2nj4w::::res://Audio/SFX - Main engine thrust.ogg<>uid://dcecb8hw7dbrv::::res://Particles/explosion_particles.tscn<>uid://jfwajmrh6ca7::::res://Particles/success_particles.tscn
+::res://Audio/::1726694491
+booster_particles.tscn::PackedScene::1453155181391318073::1726694491::0::1::::<><>::
+SFX - Death Explosion.ogg::AudioStreamOggVorbis::1896347493732061626::1726693360::1726694048::1::::<><>::
+SFX - Main engine thrust.ogg::AudioStreamOggVorbis::5303460753127677228::1726694006::1726694079::1::::<><>::
+SFX - Success.ogg::AudioStreamOggVorbis::8320592335914038989::1726693360::1726694048::1::::<><>::
+::res://Levels/::1727205267
+LandingPad.gd::GDScript::-1::1726077166::0::1::::<>CSGBox3D<>::
+level_1.tscn::PackedScene::3988482083029452842::1727205267::0::1::::<><>::uid://bq8d0iifb6hbd::::res://background.tscn<>uid://c18qtxkqw1yo5::::res://player.tscn<>res://Levels/LandingPad.gd
+level_2.tscn::PackedScene::2641469162479807185::1727204896::0::1::::<><>::res://Levels/LandingPad.gd<>uid://c18qtxkqw1yo5::::res://player.tscn<>uid://bq8d0iifb6hbd::::res://background.tscn
+level_3.tscn::PackedScene::3725554010584285113::1727204896::0::1::::<><>::res://Levels/LandingPad.gd<>uid://c18qtxkqw1yo5::::res://player.tscn<>uid://bq8d0iifb6hbd::::res://background.tscn
+level_4.tscn::PackedScene::3477686638032201427::1727204896::0::1::::<><>::res://Levels/LandingPad.gd<>uid://c18qtxkqw1yo5::::res://player.tscn<>uid://fujm87bqcvmo::::res://moving_hazard.tscn<>uid://bq8d0iifb6hbd::::res://background.tscn
+::res://Particles/::1726695183
+booster_particles.tscn::PackedScene::286010605967719141::1726694985::0::1::::<><>::
+explosion_particles.tscn::PackedScene::7308022214277692275::1726695127::0::1::::<><>::
+success_particles.tscn::PackedScene::643357747384234160::1726695127::0::1::::<><>::
