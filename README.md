@@ -27,6 +27,14 @@ This is a **physics-based rocket flying game** where you must carefully maneuver
 | Rotate Right | `D` / `Right Arrow` |
 | Exit Game | `Esc` |
 
+## 🖼️ Screenshots
+
+### 🚀 Rocket
+![Rocket in Flight](Images/Screenshot%202025-02-26%20164734.png)
+
+### 🌌 Avoiding Hazards
+![Obstacle Course](Images/Screenshot%202025-02-26%20164803.png)
+
 ## 📥 Installation
 
 ### **Prerequisites**
